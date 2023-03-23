@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+
+body{
+    background-color: black;
+}
+
+.nome{
+    position: absolute;
+width: 563.23px;
+height: 60.55px;
+left: 800px;
+top: 92px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 2px;
+/* or 3% */
+
+letter-spacing: 0.01em;
+
+color: #FFFFFF;
+
+transform: rotate(1.16deg);
+}
+
+.menu1{
+    position: absolute;
+    width: 252px;
+    height: 61px;
+    left: 704px;
+    top: 185px;
+    
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 2px;
+    /* or 3% */
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.01em;
+    
+    color: #FFFFFF;
+}
+
+.menu2{
+    position: absolute;
+    width: 275px;
+    height: 2px;
+    left: 1236px;
+    top: 213px;
+
+    font-family: 'Jolly Lodger';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 2px;
+    /* identical to box height, or 3% */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
